@@ -1,0 +1,1 @@
+print("Birinchi dars")
