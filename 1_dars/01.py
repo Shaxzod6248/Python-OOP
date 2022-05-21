@@ -1,3 +1,4 @@
+#Fayl bilan ishlash
 import os
 file_name = "Talabalar Ro'yxati"
 def file_och():
